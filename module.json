@@ -1,0 +1,72 @@
+{
+  "id": "heros-and-knaves",
+  "title": "Anthology of Heros and Knaves",
+  "version": "0.0.1",
+  "bugs": "https://github.com/toastygm/heros-and-knaves/issues",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Toasty",
+      "discord": "toasty#8538",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "styles": [], 
+  "relationships": {
+    "systems": [
+      {
+        "id": "sohl",
+        "type": "system",
+        "manifest": "https://github.com/toastygm/Song-of-Heroic-Lands-FoundryVTT/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "0.4.0",
+          "verified": "0.4.3"
+	}
+      }
+    ]
+  },
+  "scripts": [],
+  "packFolders": [
+    {
+      "name": "Anthology of Heros and Knaves",
+      "sorting": "m",
+      "folders": [
+          {
+              "name": "Actors",
+              "sorting": "m",
+              "color": "#ac09cb",
+              "packs": [
+                  "leg-actors"
+              ]
+          }
+      ],
+      "packs": [
+          "journals"
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "label": "HMK Legendary Actors",
+      "name": "leg-actors",
+      "type": "Actor",
+      "system": "sohl"
+    },
+    {
+      "label": "Character Descriptions",
+      "name": "journals",
+      "type": "JournalEntry"
+    }
+  ],
+  "url": "https://github.com/toastygm/heros-and-knaves/",
+  "manifest": "https://github.com/toastygm/heros-and-knaves/releases/latest/download/module.json",
+  "download": "https://github.com/toastygm/heros-and-knaves/releases/download/v0.0.1/module.zip",
+  "flags": {
+    "allowBugReporter": true
+  }
+}
