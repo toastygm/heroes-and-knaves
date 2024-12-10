@@ -1,8 +1,8 @@
 {
-  "id": "heros-and-knaves",
-  "title": "Anthology of Heros and Knaves",
+  "id": "heroes-and-knaves",
+  "title": "Anthology of Heroes and Knaves",
   "version": "0.0.1",
-  "bugs": "https://github.com/toastygm/heros-and-knaves/issues",
+  "bugs": "https://github.com/toastygm/heroes-and-knaves/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
@@ -63,9 +63,9 @@
       "type": "JournalEntry"
     }
   ],
-  "url": "https://github.com/toastygm/heros-and-knaves/",
-  "manifest": "https://github.com/toastygm/heros-and-knaves/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/heros-and-knaves/releases/download/v0.0.1/module.zip",
+  "url": "https://github.com/toastygm/heroes-and-knaves/",
+  "manifest": "https://github.com/toastygm/heroes-and-knaves/releases/latest/download/module.json",
+  "download": "https://github.com/toastygm/heroes-and-knaves/releases/download/v0.0.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
