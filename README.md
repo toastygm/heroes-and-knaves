@@ -9,6 +9,8 @@ Welcome to the **Anthology of Heroes and Knaves**, a rich and expansive collecti
 
 1.  [Overview](#overview)
 2.  [Features](#features)
+3.  [Copyright](#copyright)
+4.  [Discord](#discord)
 
 ## Overview
 
@@ -49,3 +51,8 @@ The **Anthology of Heroes and Knaves** offers a treasure trove of characters dra
 ## Copyright
 
 [Anthology of Heroes and Knaves](https://github.com/toastygm/heroes-and-knaves) Copyright &copy; 2024 by Thomas Rodriguez. All rights reserved.
+
+## Discord
+
+Please consider joining [my community on Discord](https://bit.ly/44vZ10j) to discuss and find additional content modules I have developed.
+
