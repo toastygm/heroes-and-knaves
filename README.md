@@ -1,6 +1,4 @@
 # Anthology of Heroes and Knaves
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
 ![A Crowd of People](https://raw.githubusercontent.com/toastygm/heroes-and-knaves/refs/heads/master/assets/artwork/heroes-and-knaves.webp)
 
 Welcome to the **Anthology of Heroes and Knaves**, a rich and expansive collection of NPCs (Non-Player Characters) for FoundryVTT. This module features **29 meticulously crafted NPCs** with distinctive backstories, plot hooks, and cultural inspirations, alongside **hundreds of additional NPCs** from a wide variety of occupations and backgrounds. Together, they form a diverse and dynamic ensemble ready to bring depth and life to any campaign.
@@ -10,7 +8,8 @@ Welcome to the **Anthology of Heroes and Knaves**, a rich and expansive collecti
 1.  [Overview](#overview)
 2.  [Features](#features)
 3.  [Copyright](#copyright)
-4.  [Discord](#discord)
+4.  [License](#license)
+5.  [Discord](#discord)
 
 ## Overview
 
@@ -52,6 +51,12 @@ The **Anthology of Heroes and Knaves** offers a treasure trove of characters dra
 
 [Anthology of Heroes and Knaves](https://github.com/toastygm/heroes-and-knaves) Copyright &copy; 2024 by Thomas Rodriguez. All rights reserved.
 
+## License
+
+All content under the `assets` folder is licensed under the
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).  See the file [LICENSE.CC-BY-SA-4.0](./assets/LICENSE.CC-BY-SA-4.0) in the `assets` folder for more information.
+
+All other content outside of the `assets` folder is licensed under the GNU GPLv3 license.  See the file [LICENSE.GPLv3](./LICENSE.GPLv3) for more information.
 ## Discord
 
 Please consider joining [my community on Discord](https://bit.ly/44vZ10j) to discuss and find additional content modules I have developed.
