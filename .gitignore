@@ -41,6 +41,7 @@ dist/
 
 # Package builds
 package/
+/packs
 
 # Hidden files
 nogit/
