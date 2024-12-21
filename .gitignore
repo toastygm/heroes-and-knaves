@@ -44,6 +44,7 @@ package/
 
 # Hidden files
 nogit/
+/packs
 
 # Foundry Project Creator config file
 foundryconfig.json
